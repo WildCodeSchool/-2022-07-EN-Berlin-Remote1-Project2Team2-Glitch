@@ -1,0 +1,21 @@
+.gamers{
+    text-align: center;
+    position: relative;
+}
+.gamers p{
+    font-size: 24px;
+}
+.perf {
+    color: #350608;
+    font-weight: 700;
+}
+.sp{
+    color: #C73B0B;
+    font-weight: 700;
+}
+
+.chuck2{
+    position: absolute;
+    top: 5;
+    left: 10;
+}

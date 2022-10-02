@@ -1,0 +1,27 @@
+.room{
+    text-align: center;
+    color: #350608;
+    
+}
+.send{
+    font-size: 32px;
+    padding: 20px;
+}
+.link{
+    width: 300px;
+    margin: 0 0 20px 0;
+}
+.icon{
+    width: 25px;
+}
+.but__small{
+    background-color: #D9D9D9;
+    border-radius: 70px;
+    padding: 2px 5px;
+    border: none;  
+    font-size: 16px;
+    font-weight: 700;
+    
+    letter-spacing: 0em;
+    text-align: center;
+}

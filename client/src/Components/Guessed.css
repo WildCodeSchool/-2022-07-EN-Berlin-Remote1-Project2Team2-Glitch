@@ -1,0 +1,21 @@
+.guessed{
+    position: relative;
+}
+.guessed p{
+    font-size: 32px;
+}
+.guessed__words{
+    text-align: center;
+}
+.guessed img{
+    position: absolute;
+    left:500;
+    top:500;
+}
+.guessed__words p{
+    margin: 0 40px 0 0;
+
+}
+.giveup{    
+    padding: 200px 0 0 0;
+}

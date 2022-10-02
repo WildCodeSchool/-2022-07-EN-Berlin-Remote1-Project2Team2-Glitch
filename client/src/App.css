@@ -1,0 +1,118 @@
+body{
+  background: linear-gradient(to right, #F9F7F3, #D9B26E);
+  margin:20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+/* 
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+li{
+  list-style-type: none;
+}
+.logo{
+  height: 80px;
+  margin: 0 0 0 2%; 
+
+}
+.start{
+  text-align: center;
+  color: #350608;  
+}
+.startOne{
+  font-size: 32px;
+  font-weight: bold;
+}
+.startTwo{
+  color: #C73B0B;
+  font-weight: 800;
+}
+.chuck{
+  height: 60%;
+  padding-left: 60%;
+}
+.but {
+  background-color: #D9D9D9;
+  border-radius: 70px;
+  padding: 10px 25px;
+  border: none;  
+  font-size: 24px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+.round{
+  background: url('../src/assets/back.jpg') space;
+  background-size: 200px;
+  width: 1200px;
+  height: 800px;
+  margin: 3.5% auto;
+  /* display: flex; */
+  box-sizing: border-box;
+  position: relative;
+}
+.roundGrey{
+  background-color: #D9D9D9;
+  border-radius: 30px;
+  padding: 10px 100px;
+  border: none;  
+  font-size: 24px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0em;  
+  position: absolute;
+  left: 40%;
+  top: 50%; 
+}
+.perf{
+  text-align: center;
+}
+.chuckImg{
+  width: 70%;
+}
+.joke{
+  padding-top: 30px;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 500px;
+  font-size: 32px;
+  text-shadow: #C73B0B 1px 0 10px;
+  color: #350608; 
+}
+.chkimg4{
+  position: relative;
+  height: 200px;
+  width: 320px;
+}
